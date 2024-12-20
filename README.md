@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shubham221216
+- 👋 Hi, I’m Shubham Sonone
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 💞️ I’m looking to collaborate on any platform.
