@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi 👋, I'm Shubham Sonone<br><br>### Backend Developer | FastAPI | PostgreSQL | API Builder<br><br>```python<br>while alive:<br>    build_api()<br>    optimize_queries()<br>    fix_bugs()<br>```<br><br>💻 Backend developer focused on building scalable APIs, database systems, and cloud-ready applications.<br><br>🚀 Currently working on:<br><br>* 🥗 Wellthier – Health & Nutrition Management Platform<br>* ⚡ FastAPI Backend Development<br>* 🐘 PostgreSQL Database Design<br>* 🤖 AI-Powered Applications & RAG Systems<br>* 🐳 Dockerized Deployments<br><br>---<br><br>## 🛠️ Tech Stack<br><br>### Backend<br><br>* Python<br>* FastAPI<br>* REST APIs<br>* SQLAlchemy<br>* PostgreSQL<br><br>### DevOps & Tools<br><br>* Docker<br>* Git<br>* Linux<br><br>### AI & LLM<br><br>* LangChain<br>* FAISS<br>* Gemini API<br>* OpenAI API<br><br>---<br><br>## 🎯 What I Enjoy Building<br><br>* High-performance APIs<br>* Database-driven applications<br>* Authentication & Authorization Systems<br>* AI-integrated backends<br>* Backend architectures that survive production<br><br>---<br><br>## ⚡ Backend Developer Starter Pack<br><br>* "Works on my machine."<br>* 127 browser tabs open.<br>* One terminal for coding.<br>* One terminal for debugging.<br>* One terminal pretending to look important.<br>* A PostgreSQL query that was supposed to take 2ms.<br><br>---<br><br>## 🧠 Fun Facts<br><br>* I spend more time designing APIs than naming variables.<br>* If the frontend works, my API probably deserves some credit.<br>* My favorite UI is Swagger.<br>* I get excited when a query drops from 500ms to 50ms.<br>* I believe every bug is just an undocumented feature.<br><br>---<br><br>## 📫 Connect With Me<br><br>* GitHub: github.com/Shubham221216<br><br>> Building things people don't see, but everything depends on.<br>
 
-<!--
-**Shubham221216/Shubham221216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubham__16) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamsonone88@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Shubham221216&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Shubham221216&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shubham221216&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://komarev.com/ghpvc/?username=Shubham221216&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
